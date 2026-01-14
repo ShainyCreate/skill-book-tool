@@ -43,6 +43,10 @@ textarea {
   justify-content: center;
 }
 
+.controls * {
+  margin: 6px;
+}
+
 button {
   background: #6200ea;
   color: white;
